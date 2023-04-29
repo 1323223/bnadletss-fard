@@ -1,6 +1,6 @@
-mods/data/heartbass/Opposition-easy.json
-mods/data/heartbass/Opposition-hard.json
-mods/data/heartbass/Opposition.json
+mods/data/Opposition/Opposition-easy.json
+mods/data/Opposition/Opposition-hard.json
+mods/data/Opposition/Opposition.json
 mods/songs/Opposition/Voices.ogg
 mods/songs/Opposition/Inst.ogg
 mods/songs/Opposition/voices.ogg
