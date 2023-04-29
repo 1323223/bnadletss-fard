@@ -1,1 +1,2 @@
-mods/weeks/amongus.json
+mods/weeks/o.json
+mods/weeks/t.json
