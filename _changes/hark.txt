@@ -1,7 +1,0 @@
-mods/data/heartbass/Thearchy-easy.json
-mods/data/heartbass/Thearchy-hard.json
-mods/data/heartbass/Thearchy.json
-mods/songs/Thearchy/Voices.ogg
-mods/songs/Thearchy/Inst.ogg
-mods/songs/Thearchy/voices.ogg
-mods/songs/Thearchy/inst.ogg
