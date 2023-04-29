@@ -1,1 +1,7 @@
-
+mods/data/Thearchy/Thearchy-easy.json
+mods/data/Thearchy/Thearchy-hard.json
+mods/data/Thearchy/Thearchy.json
+mods/songs/Thearchy/Voices.ogg
+mods/songs/Thearchy/Inst.ogg
+mods/songs/Thearchy/voices.ogg
+mods/songs/Thearchy/inst.ogg
