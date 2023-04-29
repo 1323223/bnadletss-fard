@@ -1,0 +1,7 @@
+mods/data/Overthink/Overthink-easy.json
+mods/data/Overthink/Overthink-hard.json
+mods/data/Overthink/Overthink.json
+mods/songs/Overthink/Voices.ogg
+mods/songs/Overthink/Inst.ogg
+mods/songs/Overthink/voices.ogg
+mods/songs/Overthink/inst.ogg
